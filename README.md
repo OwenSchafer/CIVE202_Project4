@@ -7,7 +7,7 @@ This repository contains the following files:
 - [Scope of Work]
 - [Project code document](CIVE202_Spring-2026_Project4_154-05_ProjectCode.ipynb)
 - [Annotated Code Document]
-- [Project Report]
+- [Project Report](CIVE202_Spring-2026_Project4_154-04_Report.docx)
 - [Project timesheet]
 
 In addition, the following files are included:
