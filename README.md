@@ -15,4 +15,4 @@ In addition, the following files are included:
 - [Lab 2 Document](CIVE202_Spring-2026_Project4_OS_Lab2.ipynb)
 - [Lab 3 Document](CIVE202_Spring-2026_Project4_OS_Lab3.ipynb)
 - Data files for the project code document
-  - NRI_Shapefile_CensusTracts.shp is **NOT** included in this repository. It must be downloaded separately in order for the project code document to run correctly.
+  - **NRI_Shapefile_CensusTracts.shp is *NOT* included in this repository.** It must be downloaded separately in order for the project code document to run correctly.
