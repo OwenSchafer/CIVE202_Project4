@@ -8,7 +8,7 @@ This repository contains the following files:
 - [Project code document](CIVE202_Spring-2026_Project4_154-05_ProjectCode.ipynb)
 - [Annotated Code Document](CIVE202_Spring-2026_152-05_ACD.pdf)
 - [Project Report](CIVE202_Spring-2026_Project4_154-04_Report.docx)
-- [Project timesheet]
+- [Project timesheet](CIVE202_Spring-2026_152-05_Timesheet.pdf)
 
 In addition, the following files are included:
 - [Lab 1 Document](CIVE202_Spring-2026_Project4_OS_Lab1.ipynb)
