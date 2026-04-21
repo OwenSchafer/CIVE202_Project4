@@ -4,7 +4,7 @@ Risk assessment of Arkansas and Delaware using FEMA National Risk Index data for
 # Repository Structure
 This repository contains the following files:
 - [Gantt chart](CIVE202_Spring-2026_152-05_GanttChart.xlsx)
-- [Scope of Work]
+- [Scope of Work](CIVE202_Spring-2026_152-05_SOW.docx)
 - [Project code document](CIVE202_Spring-2026_Project4_154-05_ProjectCode.ipynb)
 - [Annotated Code Document](CIVE202_Spring-2026_152-05_ACD.pdf)
 - [Project Report](CIVE202_Spring-2026_Project4_154-04_Report.docx)
